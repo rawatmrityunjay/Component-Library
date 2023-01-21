@@ -113,7 +113,7 @@ h3{
 .nav-bar{
 
     background-color: #ff9c4b;
-    height: 91px;
+    height: 108px;
     border-bottom-left-radius: 1rem;
     border-bottom-right-radius: 1rem;
 
@@ -122,14 +122,10 @@ h3{
 .nav-designer-name{
 
     color: white;
-
-}
-
-.nav-designer-name{
-
     position: absolute;
     margin-top: 1rem;
     margin-left: 1rem;
+    font-size: 1.6rem;
 
 }
 
@@ -137,20 +133,22 @@ h3{
 
     color: white;
     display: inline;
-    margin: 0rem 1rem ;
+    margin: 0rem 1.4rem ;
 
 
 }
 
-.nav-bar-unordered-list{
+.nav-bar-unordered-list {
 
     list-style: none;
     float: right;
     list-style: none;
-    margin-top: 50px;
-    margin-right: 30px;
-
+    margin-top: 60px;
+    margin-right: 28px;
+    
 }
+
+
 
 .svg-image{
 
@@ -238,3 +236,4 @@ h3{
     text-align: center;
 
 }
+
